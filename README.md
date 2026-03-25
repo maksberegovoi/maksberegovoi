@@ -2,17 +2,17 @@
 
 ## About me 😊
 
-I am a Frontend Developer with a Bachelor's degree in Cybersecurity and currently pursuing a Master of Science in Software Engineering at GoIT Neoversity. Over the past year, I have been deeply engaged in web development, focusing on React.  
+I am a Web Developer with a Bachelor's degree in Cybersecurity and currently pursuing a Master of Science in Software Engineering at GoIT Neoversity.
 
-My short-term goal is to join a development team where I can contribute, grow professionally, and gain hands-on industry experience.
+Focused on building reliable, user-friendly applications using React, TypeScript, and Node.js with clean architecture, simple and predictable interfaces, which easy to maintain.
 
 ## Languages and Tools
 
-Frontend: React, TypeScript, Tailwind, SCSS, Zustand, Redux Tool Kit, RTK Query
+Frontend: Next.js, React, TypeScript, Tailwind, SCSS, Zustand, Redux Toolkit, RTK Query, Tanstack Query, RHF, Zod
   
-Backend: NodeJS, Express, TypeScript, Prisma
+Backend: Node.js, Nest, Express, TypeScript, Prisma, PostgreSQL, Swagger, REST
 
-Other tools: vitest, jest, rtl, storybook, zod, figma, git, CI, husky, jwt...
+Other tools: Figma, Vitest, Jest, RTL, Storybook, Git, CI/CD, Husky
 
 
 
